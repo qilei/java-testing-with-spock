@@ -5,6 +5,5 @@ Requirements
 1. JDK
 2. Maven
 
-git test 1
 
 
